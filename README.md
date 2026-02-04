@@ -49,6 +49,8 @@
 
 ### 第 3 步：开始使用
 刷新 [Gemini 官网](https://gemini.google.com/)，你将看到屏幕边缘出现了一个侧边栏切换按钮。
+<img width="1257" height="870" alt="image" src="https://github.com/user-attachments/assets/d586c0ed-9ffb-44fe-bb99-2866b4fce345" />
+
 
 ---
 
